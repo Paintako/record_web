@@ -1,0 +1,37 @@
+body{
+    background-color: FloralWhite;
+  }
+  
+  .container{
+    
+    position: relative; /*設為相對定位(relative) */
+    /*text-align: center; */
+    border: 1px solid black;
+  }
+  
+  /* margins: used to create space around elements */
+
+  .checkpoint{
+    position: absolute;
+    /* display: block; */
+    top: 20px;
+    left: 0px;
+    width: 25px;
+    height: 25px;
+  }
+
+  .record_area{
+    position: absolute;
+    display: block;
+    top:20px;
+    left: 100px;
+    border:1px solid black;
+  }
+
+  .leavemessage{
+    position: absolute;
+    display: block;
+    top:20px;
+    right: 25px;
+    border:1px solid black;
+  }
