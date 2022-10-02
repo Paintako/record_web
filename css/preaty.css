@@ -28,22 +28,25 @@ body{
     height: 25px;
   }
 
-  .record_area{
-    position: absolute;
-    display: block;
-    width: 300px;
-    height: 150px;
-    top: 10px;
-    left: 80px;
-    border:1px solid black;
-  }
-
   .leavemessage{
     position: absolute;
     display: block;
     top:10px;
     width: 350px;
-    height: 170px;
+    height: 150px;
     right: 25px;
     border:1px solid black;
+  }
+
+  .audio{
+    position: absolute;
+    width: 30%;
+    top: 75px;
+    left: 85px;
+  }
+
+  .submit_btn{
+    position: absolute;
+    right: 338px;
+    top: 170px;
   }
