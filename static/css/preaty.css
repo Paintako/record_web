@@ -10,7 +10,7 @@ body{
   .web_container{  
     position: relative; 
     border: 1px solid black;
-    width: 800px;
+    width: 1500px;
     height: 200px;
     /*padding: 50px;*/
     margin:20px;  
@@ -34,7 +34,7 @@ body{
     top:10px;
     width: 350px;
     height: 150px;
-    right: 25px;
+    right: 450px;
     border:1px solid black;
   }
 
